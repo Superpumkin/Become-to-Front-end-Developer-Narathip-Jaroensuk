@@ -1,0 +1,12 @@
+nav {
+    padding: 10px 0px 10px 0px;
+}
+nav a{
+    color: lightgray;
+    background-color: blue;
+    border: 3px lightblue solid;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 15px 5px 15px;
+    margin: 0px 10px 0px 0px;
+}
